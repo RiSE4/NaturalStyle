@@ -1,0 +1,128 @@
+#ENGLISH LOCALIZE
+#英語表記 <<== SISJP防止
+
+itemGroup.tabNaturalStyle=NaturalStyle
+desc.naturalstyle=FUCK YOU!
+
+#BLOCK
+tile.natural_ore.essence.name=Essence Ore
+tile.natural_ore.aurora.name=Aurora Ore
+tile.ore_block.essence.name=Essence Block
+tile.ore_block.aurora.name=Aurora Block
+tile.mincer.name=Villager Mincer
+tile.cardboard_box.name=Cardboard Box
+tile.amt_decoration_container.name=Decoration Container[AppleMilkTea2]
+tile.unbreaking_anvil.name=Unbreaking Anvil
+
+tile.mix_brick.name=Mix Brick
+tile.brick_brown.name=Brown Brick
+tile.brick_color.name=Colored Brick
+tile.brick_dark.name=Dark Brick
+tile.brick_light.name=Light Brick
+
+tile.brick_stairs_mix.name=Mix Brick Stairs
+tile.brick_stairs_brown.name=Brown Brick Stairs
+tile.brick_stairs_color.name=Colored Brick Stairs
+tile.brick_stairs_dark.name=Dark Brick Stairs
+tile.brick_stairs_light.name=Light Brick Stairs
+
+#ITEM
+item.natural_stone.name=Natural Stone
+
+item.natural_jewel.essence_rought.name=Rought of Essence
+item.natural_jewel.essence_fragment.name=Essence Fragment
+item.natural_jewel.essence_sphere.name=Essence Sphere
+item.natural_jewel.aurora.name=Aurora Stone
+item.natural_jewel.mending_stone.name=Mending Stone
+
+item.aurora_shovel.name=Aurora Shovel
+item.aurora_pickaxe.name=Aurora Pickaxe
+item.aurora_axe.name=Aurora Axe
+item.aurora_hammer.name=Aurora Hammer
+item.aurora_hoe.name=Aurora Hoe
+
+item.charm.none.name=Common Charm
+item.charm.teleport.name=Teleport Charm
+item.charm.heal.name=Heal Charm
+item.charm.drop.name=Drop Charm
+iteminfo.charm.none=Effect: NONE
+iteminfo.charm.teleport=Effect: Teleport to respawn point
+iteminfo.charm.heal=Effect: Healing
+iteminfo.charm.drop=Effect: Increase drop exp
+
+item.aurora_hat.name=Aurora Hat
+item.aurora_chestplate.name=Aurora Chestplate
+item.aurora_pants.name=Aurora Pants
+item.aurora_boots.name=Aurora Boots
+
+item.sensu.name=Colorful Fan
+item.baked_sunflower_seed.name=Baked Sun Flower Seed
+
+item.maple_diamond_hammer.name=Maple Diamond Hammer
+item.aurora_pocket.name=Aurora Pouch
+
+
+#HOE
+item.recovery_hoe.name=HOEEEEE!?
+info.recovery_hoe=You must eat food!!!!!
+item.wireless_hoe.name=Wireless HOEEEEE!?
+info.function.plow=§dPlowing a wide area at once
+info.desc.plow=§8(The accuracy is not so good!)
+info.wirelesshoe=:) You are an idiot. (:
+
+item.monster_energy.name=Monster Energy
+item.monster_energy.normal.name=Monster Energy
+item.monster_energy.absolutely_zero.name=Monster Energy: Absolutely Zero
+item.monster_energy.khaos.name=Monster Energy: Khaos
+item.monster_energy.cuba_libre.name=Monster Energy: Cuba Libre
+item.monster_energy.pipeline_punch.name=Monster Energy: Pipeline Punch
+item.monster_energy.ultra.name=Monster Energy: Ultra
+
+
+#CHAT INFO
+chat.naturalstyle=§2[NaturalStyle]
+chat.tryswitch=§9Switch mode §8:
+
+#INFO
+info.press.shift= §9Press §bLSHIFT §7to §9view details
+info.function.switch=§9Switch mode §7with §bLSHIFT §7+ §bRight Click
+info.function.repair=§eAuto Repair(1/20sec)
+info.function.infinity=§6Infinity Drability
+info.invincible=§dAnti Lost
+info.mode.now=Current mode :
+info.mode.normal=§6Normal
+info.mode.slow=§6Slow
+info.mode.fast=§6Fast
+
+info.armor.respiration=Respiration
+info.armor.regeneration=Regeneration
+info.armor.speedbonus=Speed Bonus
+info.armor.stepassist=Step Assist
+info.armor.nofall=No Fall
+
+#CARDBOARD BOX
+tooltip.blockData=Block Data
+tooltip.block=Block
+tooltip.meta=Metadata
+tooltip.yes=YES
+tooltip.no=NO
+
+container.aurora_pocket=Aurora Pocket
+
+#ACHIEVEMENT
+achievement.mining_essence_ore=What is this!?
+achievement.mining_essence_ore.desc=Get the first Raught of Essence
+achievement.mining_aurora_ore=Beautiful Stone
+achievement.mining_aurora_ore.desc=Get the first Aurora Stone
+achievement.craft_mincer=Yooooo! What the fuccccck!?
+achievement.craft_mincer.desc=Mincing Mincing Villager Mincing!
+achievement.craft_aurora_hammer=Excellent Tool!
+achievement.craft_aurora_hammer.desc=Craft Aurora Hammer
+achievement.craft_aurora_armor=Excellent Armor!
+achievement.craft_aurora_armor.desc=Craft Aurora Armor
+achievement.smelt_baked_seed=HEEEEEEY！
+achievement.smelt_baked_seed.desc=SUN FLOWER SEED IS SO DELICIOOOUS!!
+achievement.craft_monster=Unleash the Beast!
+achievement.craft_monster.desc=So cool
+achievement.eat_hoe=This hoe iyooooo! DELICIOUS!
+achievement.eat_hoe.desc=:) You are an idiot. (:

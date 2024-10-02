@@ -1,0 +1,120 @@
+#JAPANESE LOCALIZE
+
+itemGroup.tabNaturalStyle=NaturalStyle
+desc.naturalstyle=あぁぁ！！ 水素のおとぉぉぉ！！
+
+#BLOCK
+tile.natural_ore.essence.name=エッセンスの鉱石
+tile.natural_ore.aurora.name=オーロラ石の鉱石
+tile.ore_block.essence.name=エッセンスブロック
+tile.ore_block.aurora.name=オーロラブロック
+tile.mincer.name=村人ミンチマシーン
+tile.cardboard_box.name=ダンボール
+tile.amt_decoration_container.name=装飾用コンテナ[AppleMilkTea2]
+tile.unbreaking_anvil.name=壊れない金床
+
+tile.mix_brick.name=装飾ブロック[Mix]
+tile.brick_brown.name=装飾ブロック[Brown]
+tile.brick_color.name=装飾ブロック[Color]
+tile.brick_dark.name=装飾ブロック[Dark]
+tile.brick_light.name=装飾ブロック[Light]
+
+tile.brick_stairs_mix.name=装飾階段ブロック[Mix]
+tile.brick_stairs_brown.name=装飾階段ブロック[Brown]
+tile.brick_stairs_color.name=装飾階段ブロック[Color]
+tile.brick_stairs_dark.name=装飾階段ブロック[Dark]
+tile.brick_stairs_light.name=装飾階段ブロック[Light]
+
+#ITEM
+item.natural_stone.name=不思議な石
+
+item.natural_jewel.essence_rought.name=エッセンスの原石
+item.natural_jewel.essence_fragment.name=エッセンスの欠片
+item.natural_jewel.essence_sphere.name=エッセンスの塊
+item.natural_jewel.aurora.name=オーロラ石
+item.natural_jewel.mending_stone.name=修復の石
+
+item.aurora_shovel.name=オーロラ石のシャベル
+item.aurora_pickaxe.name=オーロラ石のツルハシ
+item.aurora_axe.name=オーロラ石の斧
+item.aurora_hammer.name=オーロラ石のハンマー
+item.aurora_hoe.name=オーロラ石のクワ
+
+item.charm.none.name=ありふれたチャーム
+item.charm.teleport.name=移動のチャーム
+item.charm.heal.name=回復のチャーム
+item.charm.drop.name=幸運のチャーム
+iteminfo.charm.none=効果: なし
+iteminfo.charm.teleport=効果: リスポーン地点へテレポート
+iteminfo.charm.heal=効果: 回復促進
+iteminfo.charm.drop=効果: ドロップ経験値の増加
+
+item.aurora_hat.name=オーロラ石の帽子
+item.aurora_chestplate.name=オーロラ石のチェストプレート
+item.aurora_pants.name=オーロラ石のパンツ
+item.aurora_boots.name=オーロラ石のブーツ
+
+item.sensu.name=極光の扇子
+item.baked_sunflower_seed.name=焼いたひまわりの種
+
+item.maple_diamond_hammer.name=メープルダイヤモンドのハンマー
+item.aurora_pocket.name=オーロラ石のポーチ
+container.aurora_pocket.name=オーロラ石のポーチ
+
+#HOE
+item.recovery_hoe.name=( ﾟдﾟ)ｸﾜｯ
+info.recovery_hoe=ちゃんとご飯たべろよ！
+item.wireless_hoe.name=ワイヤレス( ﾟдﾟ)ｸﾜｯ
+info.function.plow=§d広範囲を一括で耕起
+info.desc.plow=§8(精度はあんまり良くない！)
+info.wirelesshoe=クワ食うとかｗｗ
+
+item.monster_energy.normal.name=緑の魔剤
+item.monster_energy.absolutely_zero.name=青の魔剤
+item.monster_energy.khaos.name=果汁の魔剤
+item.monster_energy.cuba_libre.name=コーラの魔剤
+item.monster_energy.pipeline_punch.name=常夏の魔剤
+item.monster_energy.ultra.name=白の魔剤
+
+#CHAT INFO
+chat.naturalstyle=§2[NaturalStyle]
+chat.tryswitch=§9モードの切り替え §8:
+
+#INFO
+info.press.shift=§bLSHIFT§7で§9詳細を表示
+info.function.switch=§bLSHIFT §7+ §b右クリック §7で§9モードを切り替え
+info.function.repair=§e自動耐久回復(1/20sec)
+info.function.infinity=§6耐久無限
+info.invincible=§d対消滅の加護
+
+info.mode.now=現在のモード :
+info.mode.normal=§6通常
+info.mode.slow=§6低速
+info.mode.fast=§6高速
+
+#CARDBOARD BOX
+tooltip.blockData=ブロックデータ
+tooltip.block=ブロック
+tooltip.meta=メタデータ
+tooltip.yes=はい
+tooltip.no=いいえ
+
+item.monster_energy.name=Monster Energy
+
+#ACHIEVEMENT
+achievement.mining_essence_ore=なんかあった！
+achievement.mining_essence_ore.desc=エッセンス原石を初めて手に入れる
+achievement.mining_aurora_ore=綺麗な石がある
+achievement.mining_aurora_ore.desc=オーロラ石を初めて手に入れる
+achievement.craft_mincer=みんちみんち！
+achievement.craft_mincer.desc=村人をミンチにするのだ！！
+achievement.craft_aurora_hammer=お強い道具
+achievement.craft_aurora_hammer.desc=オーロラ石のハンマーを作る
+achievement.craft_aurora_armor=お強い装備
+achievement.craft_aurora_armor.desc=オーロラ装備を作る
+achievement.smelt_baked_seed=へけっ！
+achievement.smelt_baked_seed.desc=ひまわりの種おいちいのおおお！！
+achievement.craft_monster=Unleash the Beast!
+achievement.craft_monster.desc=コスパ最強じゃね？
+achievement.eat_hoe=このクワおいちいのおぉぉぉ！！？
+achievement.eat_hoe.desc=騙されてやんのｗｗ m9(^Д^ )
